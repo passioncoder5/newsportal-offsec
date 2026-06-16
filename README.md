@@ -8,7 +8,7 @@
 | **Engagement Type** | Black-Box Web Application Penetration Test |
 | **Date** | 2026-04-25 |
 | **Assessor** | Aravinda A Kumar |
-| **Certifications** | OSCP+ \| CEH v12 Master |
+| **Certifications** | CRTO | OSCP+ \| CEH v12 Master |
 | **Classification** | CONFIDENTIAL |
 
 > This document contains sensitive security findings obtained during an authorised penetration test. Distribution is restricted to authorised personnel only.
