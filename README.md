@@ -1,7 +1,9 @@
-# HTB NewsPortal — Penetration Test Report
+# NewsPortal — Penetration Test Report
 
-> **CONFIDENTIAL | HTB Lab | 2026-04-25**
+> **CONFIDENTIAL | 2026-04-25**
 
+Note: [Newsportal code](https://github.com/passioncoder5/Yet-Another-Vulnerable-Web-Application)
+      [Newsportal OVA file for Vit=rtualBox](https://drive.google.com/drive/u/0/folders/1JcYi2QOL01sqpodo2aIaIwmLsgOFYGNQ)
 | Field | Details |
 |---|---|
 | **Target** | 172.17.0.2 (NewsPortal – HTB) |
